@@ -7,7 +7,6 @@ I enjoy building simple projects that solve real problems and improve my coding 
 
 - Python
 - SQL
-- Git and GitHub
 - Problem solving
 - Basic software development
 
@@ -17,7 +16,7 @@ I enjoy building simple projects that solve real problems and improve my coding 
 A Python project that manages food orders for a campus.  
 It helps users place, view, and manage food orders.
 
-### SQL Assignments
+### SQL 
 A collection of SQL practice projects.  
 It includes database queries, data filtering, and basic database operations.
 
