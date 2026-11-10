@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Samuel Nambahu 👋
 
-<!--
-**SamuelHNambahu/SamuelHNambahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student and aspiring software developer learning Python, SQL, Git, and GitHub.  
+I enjoy building simple projects that solve real problems and improve my coding skills.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Git and GitHub
+- Problem solving
+- Basic software development
+
+## Projects
+
+### Campus Food Delivery System
+A Python project that manages food orders for a campus.  
+It helps users place, view, and manage food orders.
+
+### SQL Assignments
+A collection of SQL practice projects.  
+It includes database queries, data filtering, and basic database operations.
+
+## Currently Learning
+
+- Improving my Python programming skills
+- Writing cleaner and more organised code
+- Building more projects
+- Learning more about databases and SQL
+
+## Contact
+
+- Email:samuelnambahu26@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/samuel-nambahu-a213123b7
